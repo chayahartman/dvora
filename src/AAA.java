@@ -8,7 +8,7 @@ public class AAA
 		Scanner s=new Scanner(System.in);
 		/*
 		System.out.println("Hello girls!!! Good
-		System.out.print("Enter two numbers: ");
+		System.out.print("Enter two ners: ");
 		int a, b;
 		a=s.nextInt();
 		b=s.nextInt();
